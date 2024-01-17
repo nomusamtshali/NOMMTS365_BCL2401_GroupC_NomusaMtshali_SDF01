@@ -1,5 +1,6 @@
 # Project Overview
-Here you will write a short description of your project.
+Here you will write a short description of your project:
+
 My project is about CodeSpace Cat's Portfolio. It includes information about CodeSpace cat; his passion and what he likes to do. There's also a list of his skills. There's a portfolio too that shows all the projects that he has worked on, including the date, description and thumbnail of each project. There's a contact form that'll collect the user's information. At the end there's a copyright notice to prevent infringement.
 
 # Presentation
